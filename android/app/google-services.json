@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "702671145804",
+    "project_id": "asrithas-group",
+    "storage_bucket": "asrithas-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702671145804:android:ad551bb19c5c0dc0195de9",
+        "android_client_info": {
+          "package_name": "com.asrithasgroup.asritha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702671145804-ilvprdd8rmnfk58jfscegi0vjf6uthac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asrithasgroup.asritha",
+            "certificate_hash": "785f8059d3ce0bd3b1b49196345fdb34024a8ad0"
+          }
+        },
+        {
+          "client_id": "702671145804-2pp4cbrn9h87fql9ibhnkq9q1mmp0uc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb1pxpIaVOUa254qv6341PN-CfpM5Jk3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702671145804-2pp4cbrn9h87fql9ibhnkq9q1mmp0uc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
